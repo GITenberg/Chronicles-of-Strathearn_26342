@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31943'
     url: http://www.gutenberg.org/2009/agents/31943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26342#Chronicles-of-Strathearn
 gutenberg_issued: '2008-08-18'
 gutenberg_type: Text
 identifiers:
